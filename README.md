@@ -1,3 +1,3 @@
-# IBM Cloud Pak for Watson AIOps HOWTOs
+# IBM Cloud Pak for AIOps HOWTOs
 
-Please click here view the HOWTO pages: <https://pages.github.ibm.com/dcacy/waiops-howto/>
+Please click here view the HOWTO pages: <https://dcacy.github.ibm.com/aiops-howto/>

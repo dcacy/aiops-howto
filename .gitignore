@@ -1,0 +1,10 @@
+_site
+.sass-cache
+.jekyll-metadata
+.jekyll-cache
+*.gem
+.bundle
+vendor/bundle
+.vscode
+.history
+**/.DS_Store

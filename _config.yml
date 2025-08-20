@@ -5,9 +5,9 @@ description: >
   Exercises to learn how to do some typical Cloud Pak for AIOps tasks.
 lang: en-US
 
-baseurl: "/dcacy/aiops-howto" # the subpath of your site, e.g. /blog/
+baseurl: "/aiops-howto" # the subpath of your site, e.g. /blog/
 url: https://dcacy.github.io # the base hostname & protocol for your site
-git_address: https://dcacy.github.io/dcacy/aiops-howto.git
+git_address: https://dcacy.github.io/aiops-howto.git
 # git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
 
 # theme options from https://bootswatch.com/3/

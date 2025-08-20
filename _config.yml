@@ -1,13 +1,13 @@
 # Site settings
-title: WAIOps HOWTOs
+title: AIOps HOWTOs
 email: dcacy@us.ibm.com
 description: >
-  Exercises to learn how to do some typical Watson AIOps tasks.
+  Exercises to learn how to do some typical Cloud Pak for AIOps tasks.
 lang: en-US
 
-baseurl: "/dcacy/waiops-howto" # the subpath of your site, e.g. /blog/
-url: https://pages.github.ibm.com # the base hostname & protocol for your site
-git_address: https://github.ibm.com/dcacy/testme.git
+baseurl: "/dcacy/aiops-howto" # the subpath of your site, e.g. /blog/
+url: https://dcacy.github.io # the base hostname & protocol for your site
+git_address: https://dcacy.github.io/dcacy/aiops-howto.git
 # git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
 
 # theme options from https://bootswatch.com/3/
